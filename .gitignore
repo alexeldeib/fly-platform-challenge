@@ -1,0 +1,4 @@
+bpffs
+bin/
+cmd/**/*.o
+cmd/**/bpf_bpf*
